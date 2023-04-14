@@ -15,9 +15,9 @@
   font-size: 25px;
  }
 
- .big-card-description > p {
+ .big-card-description > p > a {
   margin-top: 10px;
-  color: rgb(87, 85, 81);
+  color:darkolivegreen;
  }
 
  .big-card__photo > img {
