@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <title>Etiquetas Personalizadas</title>
+
+   
+
+</head>
+<body>
+
+    <div id="etiqueta">
+        <div id="label">
+            <div id="logo">
+                <!--logo/nome da empresa-->
+            </div>
+
+            <div id="barcode">
+                <div id="barras">
+                    <input type="text" placeholder="Código de Barras" id="inputCode"><button onclick="codeValue(), codeFunction(), ocultar1()">OK</button>
+                </div>
+                <p id="code">
+                    <img id="imgBarCode" src="" alt="">
+                </p>
+            </div>
+
+            <div id="produto">
+                <div id="item">
+                    <input type="text" placeholder="Descrição do Produto" id="thing"><button onclick="prodFunction(), ocultar2()">OK</button>
+                </div>
+                <p id="prod"></p>
+            </div>
+
+            <div id="valor">
+                <div id="cash">
+                    <input type="text" placeholder="Preço" id="money"><button onclick="precoFunction(), ocultar3()">OK</button>
+                </div>
+                <h1 id="preco"></h1>
+            </div>
+        </div>
+    </div>
+    
+    <div id="imp">
+        <button onclick="window.print()">IMPRIMIR</button>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,58 @@
+@font-face {
+    /*fonte personalizada*/
+}
+
+* {
+    margin: 0;
+    box-sizing:border-box;
+}
+
+html {
+    font-size: 62.5%;
+    height: 100vh;
+    width: 100vw;
+}
+
+body {
+    height: 100%;
+    display: grid;
+    place-items: center;
+    background-color: rgba(0,119,189,1);
+    font-family: ''; /*fonte personalizada*/
+    font-size: 20px;
+    align-content: space-evenly;
+    text-transform: uppercase;
+}
+
+#logo {
+	text-align: center;
+}
+
+#etiqueta {
+    background-color: #eee;
+    height: 250px;
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 0 .8rem 2.5rem rgba(0, 0, 0, .5);    
+}
+
+#label {
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#code {
+    display: none;
+}
+
+#imp {
+    display:block;
+}
+
+@media print {
+    #imp {
+        display: none;
+    }
+}
