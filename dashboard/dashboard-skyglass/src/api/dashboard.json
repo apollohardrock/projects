@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "atracao": "Parque",
+        "quantidade": 899
+    },
+    {
+        "id": 2,
+        "atracao": "Plataforma",
+        "quantidade": 77
+    },
+    {
+        "id": 3,
+        "atracao": "Abusado",
+        "quantidade": 21
+    }
+]

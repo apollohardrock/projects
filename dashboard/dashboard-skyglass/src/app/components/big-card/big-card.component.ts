@@ -15,3 +15,4 @@ export class BigCardComponent {
   cardNumber:string = "0"
 
 }
+
