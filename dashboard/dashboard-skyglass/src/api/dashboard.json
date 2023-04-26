@@ -2,16 +2,16 @@
     {
         "id": 1,
         "atracao": "Parque",
-        "quantidade": 899
+        "quantidade": 369
     },
     {
         "id": 2,
         "atracao": "Plataforma",
-        "quantidade": 77
+        "quantidade": 96
     },
     {
         "id": 3,
         "atracao": "Abusado",
-        "quantidade": 21
+        "quantidade": 39
     }
 ]
