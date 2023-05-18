@@ -8,71 +8,75 @@
     "skills": {
       "hardSkills": [
         {
-          "name": "Nodejs",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/apollohardrock/projects/main/portfolio/assets/data/imgs/html.png"
         },
         {
-          "name": "Java",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/apollohardrock/projects/main/portfolio/assets/data/imgs/css.png"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/apollohardrock/projects/main/portfolio/assets/data/imgs/javascript.png"
         },
         {
           "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+          "logo": "https://raw.githubusercontent.com/apollohardrock/projects/main/portfolio/assets/data/imgs/angular.png"
         },
         {
-          "name": "React",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+          "name": "Python",
+          "logo": "https://raw.githubusercontent.com/apollohardrock/projects/main/portfolio/assets/data/imgs/python.png"
         },
         {
-          "name": "Mongodb",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-        },
-        {
-          "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+          "name": "SQLserver",
+          "logo": "https://raw.githubusercontent.com/apollohardrock/projects/main/portfolio/assets/data/imgs/sqlserver.png"
         }
       ],
       "softSkills": [
-        "Empatia",
-        "Liderança",
-        "Trabalho em equipe",
-        "Flexibilidade",
-        "Organização"
+        "Boa comunicação",
+        "Resolução de problemas",
+        "Pensamento crítico",
+        "Resiliência",
+        "Autodidatismo"
       ]
     },
     "languages": [
-      "Português BR",
+      "Português (BR)",
       "Inglês (intermediário)",
-      "Espanhol (intermediário)",
-      "Italiano (iniciante)"
+      "Espanhol (básico)"
     ],
-    "portfolio": [
+    "projetos": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "name": "Pokedéx",
+        "url": "https://github.com/apollohardrock/projects/tree/main/pokedex",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "Blog en Angular",
+        "url": "https://github.com/apollohardrock/projects/tree/main/blogs/angular-blog",
+        "github": true
+      },
+      {
+        "name": "",
+        "url": "",
         "github": true
       }
     ],
-    "professionalExperience": [
+    "certifications": [
       {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+        "name": "",
+        "period": "",
+        "description": ""
       },
       {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+        "name": "",
+        "period": "",
+        "description": ""
       },
       {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+        "name": "",
+        "period": "",
+        "description": ""
       }
     ]
   }
