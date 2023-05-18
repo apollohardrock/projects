@@ -57,8 +57,13 @@
         "github": true
       },
       {
-        "name": "",
-        "url": "",
+        "name": "Dashboard em Angular com API em Python",
+        "url": "https://github.com/apollohardrock/projects/tree/main/dashboard/dashboard-skyglass",
+        "github": true
+      },
+      {
+        "name": "WebApp para impressão de etiquetas personalizadas",
+        "url": "https://github.com/apollohardrock/projects/tree/main/skytags",
         "github": true
       }
     ],
